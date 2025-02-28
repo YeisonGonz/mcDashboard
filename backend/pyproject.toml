@@ -1,0 +1,10 @@
+[project]
+name = "backend-mcdashboard"
+version = "0.1.0"
+description = "Backend for a FUNtastic MCDashboard"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "fastapi>=0.115.10",
+    "pytest>=8.3.4",
+]
