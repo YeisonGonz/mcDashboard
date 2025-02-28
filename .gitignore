@@ -1,0 +1,52 @@
+# Archivos y directorios de Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Entornos virtuales
+venv/
+env/
+.env
+
+# Archivos de pytest
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Archivos de FastAPI
+.fastapi
+
+# Bases de datos
+*.db
+*.sqlite3
+
+# Logs
+*.log
+
+# Directorios de IDEs y editores
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de dependencias
+pip-lock.txt
+
+# Archivos de construcción
+build/
+dist/
+*.egg-info/
+
+# Archivos de configuración local
+.env
+config.ini
+
+# Archivos temporales
+*.tmp
+*.bak
+*.swp
